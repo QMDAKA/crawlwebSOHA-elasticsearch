@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testElastic.iml" filepath="$PROJECT_DIR$/.idea/modules/testElastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testElastic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testElastic_main.iml" group="testElastic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testElastic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testElastic_test.iml" group="testElastic" />
+    </modules>
+  </component>
+</project>
